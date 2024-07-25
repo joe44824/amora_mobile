@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "331199458552",
+    "project_id": "amora-6a0e1",
+    "storage_bucket": "amora-6a0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331199458552:android:19bcdec21b02a9064d5f0d",
+        "android_client_info": {
+          "package_name": "com.example.amora_ectax_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331199458552-se0ndtl91h2anpdeovs5s9918vcevvlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZq_7r1tEVSgbPNGCQLh53IBtdRi3d5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331199458552-se0ndtl91h2anpdeovs5s9918vcevvlh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331199458552-4dbt7o0bdrcajrk1rjk856u1h1egaf2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amoraMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331199458552:android:19272c388ee2a03f4d5f0d",
+        "android_client_info": {
+          "package_name": "com.example.amora_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331199458552-9np39801sd02oqlpmgnp2b7i0o9r6an5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amora_mobile_app",
+            "certificate_hash": "3b4e955240e2e40441e30b6a2864ea4bf581c289"
+          }
+        },
+        {
+          "client_id": "331199458552-se0ndtl91h2anpdeovs5s9918vcevvlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZq_7r1tEVSgbPNGCQLh53IBtdRi3d5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331199458552-se0ndtl91h2anpdeovs5s9918vcevvlh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331199458552-4dbt7o0bdrcajrk1rjk856u1h1egaf2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amoraMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
